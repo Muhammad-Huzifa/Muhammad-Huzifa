@@ -52,8 +52,8 @@ My work focuses on developing **efficient, lightweight, and scalable AI systems*
 
 - **Architecture**: Temporal Transformer + Spatial-Temporal GCN
 - **Innovation**: Dual-stream (Joint + Bone) processing with cross-attention fusion
-- **Performance**: 85%+ Top-1 accuracy on 300 classes
-- **Efficiency**: ~850K parameters (3.4 MB model)
+- **Performance**: 74%+ Top-1 accuracy on 300 classes
+- **Efficiency**: ~1M parameters (3.4 MB model)
 - **Tech Stack**: PyTorch, MediaPipe, Graph Neural Networks
 
 **Key Features:**
@@ -198,9 +198,9 @@ research_expertise = {
 
 | Model | Parameters | Accuracy | FPS | Deployment |
 |-------|-----------|----------|-----|------------|
-| **TT-STGCN** | 850K | **85%+** | 35-40 | ⚡ GPU |
+| **TT-STGCN** | 1.1M | **74%+** | 35-40 | ⚡ GPU |
 | **Efficient TT-STGCN** | 267K | 71% | 55+ | 🔋 Edge |
-| **BiLSTM + Attention** | 450K | 68% | 45 | 💻 CPU |
+| **BiLSTM + Attention** | ~4M | 68% | 45 | 💻 CPU |
 | **Baseline ST-GCN** | 600K | 67% | 40 | ⚡ GPU |
 
 ### **Dataset Scale**
@@ -330,8 +330,8 @@ graph LR
 
 ### 🏆 Key Achievements
 
-✅ **85%+ Accuracy** on 300-class sign language recognition (TT-STGCN)  
-✅ **<1M Parameters** — Ultra-efficient model design  
+✅ **74%+ Accuracy** on 300-class sign language recognition (TT-STGCN)  
+✅ **~1M Parameters** — Ultra-efficient model design  
 ✅ **Real-time Inference** — <20ms latency on mid-tier GPUs  
 ✅ **4 Research Repositories** — Complete implementations with documentation  
 ✅ **Open-Source Contributions** — Reproducible research for the community  
