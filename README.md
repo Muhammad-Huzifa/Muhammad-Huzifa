@@ -1,157 +1,229 @@
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Muhammad%20Huzaifa&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Deep%20Learning%20Researcher%20%7C%20AI%20Engineer&descSize=16&descAlignY=55&descAlign=50)
-
-<a href="https://www.linkedin.com/in/muhammad-huzifa3202/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mhuzaifa3202@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.kaggle.com/muhammadhuzaifa"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="https://github.com/Muhammad-Huzifa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
+ 
+# Muhammad Huzifa
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&multiline=false&repeat=true&width=900&lines=Deep+Learning+Researcher+%7C+AI+Engineer;Specializing+in+Computer+Vision+%26+Neural+Architectures;Building+Efficient+%26+Scalable+AI+Systems" alt="Typing SVG" />
+[![GitHub followers](https://img.shields.io/github/followers/Muhammad-Huzifa?style=social)](https://github.com/Muhammad-Huzifa)
+[![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Huzifa&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/Muhammad-Huzifa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-huzifa3202/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:mhuzaifa3202@gmail.com)
 </div>
-
-<br/>
-
-## `> whoami`
-
+---
+## 👨‍🔬 About Me
+I am a **Deep Learning Researcher** and **AI Engineer** with a strong foundation in **Computer Science** (BS, Islamia College University, Peshawar, 2021–2025). My research focuses on developing **state-of-the-art neural architectures** that balance performance with computational efficiency, making advanced AI accessible for real-world deployment.
+**Research Philosophy:** *Building intelligent systems that are not only accurate but also practical, interpretable, and deployable in resource-constrained environments.*
+### 🔬 Research Interests
+- **Neural Architecture Design** — Developing novel architectures for computer vision and sequential modeling
+- **Efficient Deep Learning** — Lightweight models for edge deployment and real-time inference
+- **Spatio-Temporal Modeling** — Graph Neural Networks, Transformers, and hybrid architectures
+- **Computer Vision** — Action recognition, pose estimation, and gesture analysis
+- **Multimodal Learning** — Fusion strategies for heterogeneous data sources
+### 🎯 Core Competencies
 ```python
-class DeepLearningResearcher:
-    def __init__(self):
-        self.name = "Muhammad Huzaifa"
-        self.role = "Deep Learning Researcher & AI Engineer"
-        self.location = "Peshawar, Pakistan"
-        self.education = "BS Computer Science @ Islamia College University (2021-2025)"
-        
-    def research_focus(self):
-        return [
-            "Neural Architecture Design",
-            "Efficient Deep Learning",
-            "Computer Vision",
-            "Spatio-Temporal Modeling"
-        ]
-    
-    def current_work(self):
-        return "Building lightweight, high-performance AI systems for real-world deployment"
+expertise = {
+    "Research Areas": [
+        "Graph Neural Networks (GCNs, ST-GCNs)",
+        "Transformer Architectures",
+        "Recurrent Neural Networks (LSTM, GRU)",
+        "Convolutional Neural Networks",
+        "Attention Mechanisms & Multi-Head Attention"
+    ],
+    "Computer Vision": [
+        "Pose Estimation & Landmark Detection",
+        "Action Recognition & Gesture Classification",
+        "Object Detection & Semantic Segmentation",
+        "Video Understanding & Temporal Analysis"
+    ],
+    "Model Optimization": [
+        "Parameter-Efficient Architectures",
+        "Knowledge Distillation & Pruning",
+        "Quantization & Model Compression",
+        "Real-Time Inference Optimization"
+    ],
+    "Development": [
+        "End-to-End Pipeline Development",
+        "Custom Training Frameworks",
+        "Experiment Management & Reproducibility",
+        "Production-Ready Code Implementation"
+    ]
+}
 ```
-
-<br/>
-
-## `> research_domains`
-
+---
+## 🚀 Featured Research & Projects
+<div align="center">
+### 🏆 **Research Contributions**
+*Developing cutting-edge AI systems with focus on efficiency and practical deployment*
+</div>
+### 📊 **Current Research Focus**
+My current work centers on **advanced neural architectures for spatio-temporal data**, with particular emphasis on:
+- **Graph-based Learning**: Leveraging graph structures to model complex relationships in sequential and spatial data
+- **Temporal Modeling**: Designing efficient transformer-based architectures for time-series analysis
+- **Efficient AI**: Creating lightweight models (<1M parameters) that achieve competitive performance
+- **Multi-Stream Fusion**: Developing novel fusion strategies for heterogeneous data modalities
+### 💡 **Key Research Projects**
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🧠 Neural Architectures
-```
-├── Graph Neural Networks
-│   ├── GCN / ST-GCN
-│   └── Adaptive Topology Learning
-├── Transformers
-│   ├── Vision Transformers
-│   └── Temporal Attention
-├── Hybrid Models
-│   └── CNN + GNN + Attention
-└── Recurrent Networks
-    ├── LSTM / BiLSTM
-    └── GRU Variants
-```
-
+<td width="50%">
+#### 🧠 **Advanced Neural Architecture Research**
+Developing novel deep learning architectures that push the boundaries of efficiency and performance:
+- **Spatio-Temporal Graph Networks**: Custom implementations of graph convolutional networks with temporal attention mechanisms
+- **Hybrid Transformer Models**: Combining transformers with CNNs/GNNs for optimal performance
+- **Lightweight Architectures**: Parameter-efficient designs using depthwise separable convolutions and attention pruning
+**Key Innovations:**
+- Adaptive graph topology learning
+- Multi-scale temporal convolution
+- Cross-modal attention fusion
+- Progressive training strategies
 </td>
-<td width="50%" valign="top">
-
-### 👁️ Computer Vision
-```
-├── Action Recognition
-│   └── Skeleton-based Methods
-├── Pose Estimation
-│   ├── MediaPipe Integration
-│   └── Landmark Detection
-├── Video Understanding
-│   └── Temporal Analysis
-└── Real-time Systems
-    └── Edge Deployment
-```
-
+<td width="50%">
+#### 🎯 **Computer Vision Systems**
+End-to-end implementations of state-of-the-art computer vision solutions:
+- **Pose-Based Analysis**: MediaPipe integration for real-time landmark extraction and action recognition
+- **Sequential Modeling**: BiLSTM and Transformer-based approaches for temporal data
+- **Multi-Stream Processing**: Dual and triple stream architectures for comprehensive feature learning
+**Technical Highlights:**
+- Real-time inference (<20ms latency)
+- Robust data augmentation pipelines
+- Advanced training techniques (mixup, label smoothing, cosine scheduling)
 </td>
 </tr>
 </table>
-
-<br/>
-
-## `> tech_stack`
-
+### 📈 **Research Impact**
 <div align="center">
-
-| Deep Learning | Computer Vision | Data Science | DevOps |
-|:-------------:|:---------------:|:------------:|:------:|
-| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) | ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![scikit-learn](https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ![Albumentations](https://img.shields.io/badge/Albumentations-E8732B?style=flat-square&logo=python&logoColor=white) | ![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black) |
-
+| Research Area | Key Metrics | Achievements |
+|--------------|-------------|--------------|
+| **Model Efficiency** | Parameters | Sub-1M parameter models with SOTA performance |
+| **Inference Speed** | Latency | <20ms real-time inference on mid-tier GPUs |
+| **Accuracy** | Performance | Competitive results on benchmark datasets |
+| **Deployment** | Scalability | Edge-device ready implementations |
 </div>
-
-<br/>
-
-## `> featured_projects`
-
+---
+## 🛠️ Technical Stack
 <div align="center">
-
+### **Deep Learning & AI**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### **Computer Vision & Processing**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### **Development & Tools**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### **Visualization & Analysis**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+</div>
+---
+## 📊 GitHub Analytics
+<div align="center">
+ 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Huzifa&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Huzifa&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Muhammad-Huzifa&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Huzifa&theme=react-dark&hide_border=true&area=true)
+</div>
+---
+## 🎯 Research Philosophy & Approach
+<div align="center">
+```mermaid
+graph TD
+    A[Research Problem] --> B[Literature Review]
+    B --> C[Architecture Design]
+    C --> D[Implementation]
+    D --> E[Experimentation]
+    E --> F[Optimization]
+    F --> G[Validation]
+    G --> H{Performance Goals Met?}
+    H -->|No| C
+    H -->|Yes| I[Documentation]
+    I --> J[Open Source Release]
+   
+    style A fill:#9745F5
+    style J fill:#00C853
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  PROJECT                          │  DESCRIPTION                           │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  🔬 ST-GCN Architecture           │  Spatio-temporal graph networks for    │
-│                                   │  skeleton-based action recognition     │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  ⚡ Efficient Vision Models       │  Sub-1M parameter models with          │
-│                                   │  competitive accuracy on benchmarks    │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  🎯 Real-time Pose Analysis       │  <20ms inference pipeline with         │
-│                                   │  MediaPipe + custom classifiers        │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  🔄 Multi-stream Fusion           │  Dual/triple stream architectures      │
-│                                   │  for heterogeneous feature learning    │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
 </div>
-
-<br/>
-
-## `> metrics`
-
+### **My Approach to AI Research:**
+1. **Problem-First Methodology** — Start with real-world challenges, not just academic benchmarks
+2. **Efficient by Design** — Prioritize computational efficiency from the architecture phase
+3. **Reproducible Research** — Clean, well-documented code with comprehensive documentation
+4. **Iterative Refinement** — Continuous improvement through systematic experimentation
+5. **Practical Deployment** — Bridge the gap between research and production systems
+---
+## 🌟 Research Highlights
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Huzifa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Huzifa&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Huzifa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
-
+### **Key Achievements**
+| Achievement | Description |
+|------------|-------------|
+| 🏆 **Efficient Architectures** | Developed models with <1M parameters achieving competitive accuracy |
+| ⚡ **Real-Time Systems** | Optimized inference pipelines for <20ms latency |
+| 📚 **Open Source** | Multiple repositories with comprehensive documentation |
+| 🔬 **Novel Techniques** | Implemented advanced architectures (GCN, Transformer, Attention) |
+| 🎯 **End-to-End Solutions** | Complete pipelines from data processing to deployment |
 </div>
-
-<br/>
-
-## `> collaboration`
-
-```yaml
-open_to:
-  - Neural Architecture Research
-  - Efficient Deep Learning Projects
-  - Computer Vision Applications
-  - Model Optimization & Deployment
-  - Research Paper Implementations
-
-contact:
-  email: mhuzaifa3202@gmail.com
-  linkedin: muhammad-huzifa3202
-  response_time: "< 24 hours"
-```
-
-<br/>
-
+---
+## 📚 Notable Repositories
 <div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer)
-
+Explore my research implementations — each repository includes:
+- ✅ Clean, production-ready code
+- ✅ Comprehensive documentation
+- ✅ Training pipelines and configs
+- ✅ Pre-trained models and results
+- ✅ Reproducible experiments
 </div>
+### **Categories:**
+- 🧠 **Neural Architecture Research**: Novel architectures for computer vision and sequential modeling
+- 📊 **Machine Learning Foundations**: Comprehensive implementations of ML algorithms
+- 🎥 **Computer Vision**: Pose estimation, object detection, and action recognition
+- 🔧 **Tools & Utilities**: Research utilities and experiment management tools
+---
+## 🤝 Collaboration & Open Source
+I am passionate about **open-source AI research** and believe in making advanced techniques accessible to everyone. My repositories are designed to be:
+- **Educational**: Clear explanations and well-commented code
+- **Reproducible**: Complete training scripts and configuration files
+- **Practical**: Ready-to-use implementations for real-world applications
+- **Extensible**: Modular design for easy customization and experimentation
+### **Looking to Collaborate On:**
+- 🔬 Novel neural architecture research
+- 🎯 Efficient deep learning for edge devices
+- 📊 Computer vision and video understanding
+- 🚀 AI system optimization and deployment
+- 📝 Research paper implementations and reproducibility
+---
+## 📫 Connect With Me
+<div align="center">
+### **Let's Build the Future of AI Together**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Huzifa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-huzifa3202/)
+[![Email](https://img.shields.io/badge/Email-mhuzaifa3202@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhuzaifa3202@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Muhammad_Huzaifa-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/muhammadhuzaifa)
+[![GitHub](https://img.shields.io/badge/GitHub-@Muhammad--Huzifa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Huzifa)
+**📧 Email:** mhuzaifa3202@gmail.com
+**💼 LinkedIn:** [muhammad-huzifa3202](https://www.linkedin.com/in/muhammad-huzifa3202/)
+**📍 Location:** Peshawar, Pakistan
+</div>
+---
+<div align="center">
+### 💡 *"Advancing AI research through efficient, interpretable, and deployable solutions"*
+**🔬 Research Mission:** Bridging cutting-edge research with practical applications — making state-of-the-art AI accessible and deployable for everyone.
+---
+### 🌟 Impact Metrics
+✅ **Multiple Research Projects** — Comprehensive implementations across various AI domains
+✅ **Efficient Model Design** — Specialized in creating lightweight, high-performance architectures
+✅ **Open Source Contributor** — Sharing knowledge and tools with the global AI community
+✅ **Production-Ready Code** — Industry-standard implementations ready for deployment
+✅ **Active Researcher** — Continuously exploring new architectures and optimization techniques
+---
+**⭐ If you find my work helpful, consider starring the repositories! ⭐**
+*Open for research collaborations, consulting opportunities, and discussions on AI/ML projects*
+</div>
+---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
+ 
