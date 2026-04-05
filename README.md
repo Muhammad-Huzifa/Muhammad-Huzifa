@@ -15,7 +15,7 @@
 
 ## 👨‍💻 Professional Summary
 
-AI Engineer and Deep Learning Researcher specializing in **Computer Vision** and **Neural Architecture Design**. Focused on developing efficient, production-ready deep learning solutions that balance performance with computational efficiency. Currently pursuing BS in Computer Science from Islamia College University, Peshawar (2021–2025), with hands-on expertise in transformer architectures, graph neural networks, and real-time inference systems.
+AI Engineer and Deep Learning Researcher specializing in **Computer Vision** and **Neural Architecture Design**. Focused on developing efficient, production-ready deep learning solutions that balance performance with computational efficiency. Completed BS in Computer Science from Islamia College University, Peshawar (2021–2025), with hands-on expertise in transformer architectures, graph neural networks, and real-time inference systems.
 
 ---
 
