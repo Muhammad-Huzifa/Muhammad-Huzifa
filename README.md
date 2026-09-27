@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-huzifa3202/)
 [![Email](https://img.shields.io/badge/Email-huzifa.icp%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:huzifa.icp@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/muhammadhuzaifa)
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="520" alt="Development animation" />
 
