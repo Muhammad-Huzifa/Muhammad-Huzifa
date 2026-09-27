@@ -50,7 +50,7 @@ Selected experimental results from this ongoing work:
 
 - **Research Assistant** — DIP & AI Research Lab, Islamia College University Peshawar, 2023–Present
 - **AI Trainer** — Weekend training in Python, machine learning, deep learning, and practical AI
-- **BS Computer Science** — Islamia College University Peshawar, 2025 · CGPA: 3.55/4.00
+- **BS Computer Science** — Islamia College University Peshawar, 2025 · CGPA: 3.57/4.00
 
 ## Core Technologies
 
