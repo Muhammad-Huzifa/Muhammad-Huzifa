@@ -16,7 +16,7 @@
 
 I am a Research Assistant at the **DIP & AI Research Lab, Islamia College University Peshawar, Pakistan**. My work focuses on lightweight, landmark-based sign language recognition and human action understanding using graph neural networks, spatial and temporal Transformers, and motion-aware joint and bone features.
 
-I completed a **BS in Computer Science** with a CGPA of **3.55/4.00**. Alongside my research, I teach applied artificial intelligence in a weekend training program covering Python, data analysis, machine learning, and deep learning.
+I completed a **BS in Computer Science** with a CGPA of **3.57/4.00**. Alongside my research, I teach applied artificial intelligence in a weekend training program covering Python, data analysis, machine learning, and deep learning.
 
 ## Current Research
 
