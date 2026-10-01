@@ -2,7 +2,7 @@
 
 # Muhammad Huzifa
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&repeat=true&width=760&lines=Research+Assistant+%7C+Computer+Vision;Sign+Language+Recognition+%7C+Human+Action+Understanding" alt="Research interests typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&repeat=true&width=760&lines=Research+Assistant+%7C+Computer+Vision;SLR+%7C+Human+Action+Analysis" alt="Research interests typing animation" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-huzifa3202/)
 [![Email](https://img.shields.io/badge/Email-huzifa.icp%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:huzifa.icp@gmail.com)
