@@ -1,70 +1,53 @@
-<div align="center">
-
 # Muhammad Huzifa
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&repeat=true&width=760&lines=Research+Assistant+%7C+Computer+Vision;SLR+%7C+Human+Action+Analysis" alt="Research interests typing animation" />
+Computer vision, machine learning, and sign-language recognition.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-huzifa3202/)
-[![Email](https://img.shields.io/badge/Email-huzifa.icp%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:huzifa.icp@gmail.com)
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="520" alt="Development animation" />
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/muhammad-huzifa3202/) · [Email](mailto:huzifa.icp@gmail.com)
 
 ## About
 
-I am a Research Assistant at the **DIP & AI Research Lab, Islamia College University Peshawar, Pakistan**. My work focuses on lightweight, landmark-based sign language recognition and human action understanding using graph neural networks, spatial and temporal Transformers, and motion-aware joint and bone features.
+I am a research assistant at the DIP & AI Research Lab, Islamia College University Peshawar. My work explores landmark-based sign-language recognition, graph models, and spatial and temporal learning. I also teach Python, data analysis, machine learning, and applied AI.
 
-I completed a **BS in Computer Science** with a CGPA of **3.57/4.00**. Alongside my research, I teach applied artificial intelligence in a weekend training program covering Python, data analysis, machine learning, and deep learning.
+I completed my BS in Computer Science at Islamia College University Peshawar in 2025.
 
-## Current Research
+## Learning collections
 
-### Lightweight Pose-Based Isolated Sign Language Recognition
+| Collection | Contents |
+| --- | --- |
+| [Digital Image Processing](https://github.com/Muhammad-Huzifa/Digital-Image-Proccesing-from-Scratch-and-using-Built-in-Functions) | Six lessons covering image representation, intensity operations, histograms, spatial filtering, edges, and morphology, with sample images and NumPy/OpenCV comparisons |
+| [Machine Learning and Deep Learning](https://github.com/Muhammad-Huzifa/Neural-Networks-and-Deep-Learning-Using-Pytorch-and-Tensor-Flow) | 32 topic-based notebooks, separate PyTorch/TensorFlow environments, dataset guides, an Adult Income pipeline, and a YOLO starter |
 
-My current work represents signs through **65 body and hand landmarks** and processes complementary joint and bone information. The model combines spatial attention, multi-topology graph learning, and temporal sequence modeling while remaining compact at approximately **0.805 million parameters**.
+## Applications
 
-**Manuscript in preparation:**  
-*Diversity over Complexity: Learning Multiple Graph Topologies for Isolated Sign Language Recognition* (2026)
+| Project | Implemented scope |
+| --- | --- |
+| [Aerial Object Detection](https://github.com/Muhammad-Huzifa/Aerial-Object-Detection-YOLOv8) | YOLO-based aerial detection application and dataset configuration |
+| [AI Fitness Trainer](https://github.com/Muhammad-Huzifa/AI-Fitness-Trainer-Using-MediaPipe) | MediaPipe pose analysis and exercise-counting application |
+| [Adult Income Classification](https://github.com/Muhammad-Huzifa/ML-End-to-End-project) | Persisted scikit-learn preprocessing/classification pipeline, train/predict commands, and optional API/UI |
+| [Egg Detection and Estimation](https://github.com/Muhammad-Huzifa/Egg-Detection-and-Estimation) | Browser ONNX prototype with segmentation-training tools and heuristic size categories |
+| [Tennis Video Analytics](https://github.com/Muhammad-Huzifa/tennis-pro-analytics) | Ball/player tracking and video overlays using a supplied checkpoint; motion statistics are measured in pixels |
+| [FruitVideo AI](https://github.com/Muhammad-Huzifa/FruitVideo_AI) | FastAPI prototype with validated prompts and a demonstration video response; real generation is a future integration |
 
-Selected experimental results from this ongoing work:
+## Sign-language research
 
-| Dataset | Classes | Top-1 / Recall@1 | Top-5 / Recall@5 |
-|---|---:|---:|---:|
-| WLASL-100 | 100 | 85.27% | 93.08% |
-| WLASL-300 | 300 | 76.20% | 90.42% |
-| ASL Citizen | 2,731 | 78.66% | 94.71% |
+| Project | Focus |
+| --- | --- |
+| [Efficient TT-STGCN](https://github.com/Muhammad-Huzifa/Efficient-TT-STGCN-for-Sign-Language-Recognition) | Lightweight joint/bone graph and temporal modeling experiments |
+| [TT-STGCN](https://github.com/Muhammad-Huzifa/TT-STGCN-for-Sign-Language-Recognition) | Adaptive graph and temporal attention experiments |
+| [MSE-GCN Learning Implementation](https://github.com/Muhammad-Huzifa/MSE-GCN-Paper-Methodology) | Notebook exploration of graph-based landmark classification |
+| [BiLSTM with Attention](https://github.com/Muhammad-Huzifa/ISLR-Landmarks-using-BiLSTM-with-Attention-Mechanism) | Landmark extraction and separate 100/300-class training notebooks |
 
-## Selected Projects
+These repositories document experiments in isolated sign classification. Their guides distinguish original reported figures from results reproduced in the organization pass.
 
-- **[Skeleton-Based Sign Language Recognition](https://github.com/Muhammad-Huzifa/skeleton-slr)**  
-  Joint-bone modeling, graph learning, and spatial-temporal architectures for WLASL.
+## Teaching
 
-- **[Landmark-Based ISLR with BiLSTM and Attention](https://github.com/Muhammad-Huzifa/ISLR-Landmarks-using-BiLSTM-with-Attention-Mechanism)**  
-  MediaPipe landmark extraction followed by BiLSTM-based temporal modeling and attention.
+- [AI, Machine Learning and Deep Learning — Batch 3](https://github.com/Muhammad-Huzifa/AI-ML-DL-Batch3-): numbered modules, classroom practice, assignments, and slides.
+- [Machine Learning to Production AI Deployment](https://github.com/Muhammad-Huzifa/Cloud-Computing-AI-Course): published Huawei HCCDA-AI course weeks and the planned twelve-week roadmap.
 
-- **[FruitVideo AI](https://github.com/Muhammad-Huzifa/FruitVideo_AI)**  
-  An applied computer-vision project organized as an end-to-end AI workflow.
+## Tools and interests
 
-## Experience and Education
+Python · PyTorch · TensorFlow · scikit-learn · OpenCV · MediaPipe · Jupyter · Git
 
-- **Research Assistant** — DIP & AI Research Lab, Islamia College University Peshawar, 2023–Present
-- **AI Trainer** — Weekend training in Python, machine learning, deep learning, and practical AI
-- **BS Computer Science** — Islamia College University Peshawar, 2025 · CGPA: 3.57/4.00
+I am interested in research collaboration and graduate opportunities in computer vision, sign-language recognition, and human action understanding.
 
-## Core Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-## Research Interests
-
-Sign Language Recognition · Human Action Recognition · Graph Neural Networks · Spatio-Temporal Learning · Pose-Based Vision · Multimodal AI
-
-I am open to research collaboration and Master's opportunities in computer vision and human-centered AI.
+See the [full public repository index and organization review](docs/PORTFOLIO.md) for source collections, starter repositories, draft links, and validation notes.
