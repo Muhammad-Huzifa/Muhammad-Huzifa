@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="34" viewBox="0 0 320 34" role="img" aria-labelledby="title desc">
+  <title id="title">Research · Build · Teach</title>
+  <desc id="desc">A slow typing introduction, followed by a long pause.</desc>
+  <style>
+    text { font: 18px ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace; }
+    text, .caret { fill: #2563eb; }
+    .still { display: none; }
+    @media (prefers-color-scheme: dark) {
+      text, .caret { fill: #79c0ff; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .animated { display: none; }
+      .still { display: inline; }
+    }
+  </style>
+  <defs>
+    <clipPath id="typing">
+      <rect x="0" y="0" width="264" height="34">
+        <animate attributeName="width" values="0;0;11;22;33;44;55;66;77;88;99;110;121;132;143;154;165;176;187;198;209;220;231;242;253;264;264;0;0" keyTimes="0;0.050000;0.058333;0.066667;0.075000;0.083333;0.091667;0.100000;0.108333;0.116667;0.125000;0.133333;0.141667;0.150000;0.158333;0.166667;0.175000;0.183333;0.191667;0.200000;0.208333;0.216667;0.225000;0.233333;0.241667;0.250000;0.94;0.95;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <g class="animated">
+    <text x="0" y="24" textLength="264" lengthAdjust="spacingAndGlyphs" clip-path="url(#typing)">Research · Build · Teach</text>
+    <rect class="caret" x="268" y="7" width="2" height="20" opacity="0.55">
+      <animate attributeName="x" values="4;4;15;26;37;48;59;70;81;92;103;114;125;136;147;158;169;180;191;202;213;224;235;246;257;268;268;4;4" keyTimes="0;0.050000;0.058333;0.066667;0.075000;0.083333;0.091667;0.100000;0.108333;0.116667;0.125000;0.133333;0.141667;0.150000;0.158333;0.166667;0.175000;0.183333;0.191667;0.200000;0.208333;0.216667;0.225000;0.233333;0.241667;0.250000;0.94;0.95;1" calcMode="discrete" dur="20s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.55;0.15;0.55" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text class="still" x="0" y="24" textLength="264" lengthAdjust="spacingAndGlyphs">Research · Build · Teach</text>
+</svg>

@@ -1,5 +1,10 @@
 # Muhammad Huzifa
 
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-intro-static.svg">
+  <img src="assets/profile-intro.svg" width="320" alt="Research · Build · Teach">
+</picture>
+
 Computer vision, machine learning, and sign-language recognition.
 
 [LinkedIn](https://www.linkedin.com/in/muhammad-huzifa3202/) · [Email](mailto:huzifa.icp@gmail.com)

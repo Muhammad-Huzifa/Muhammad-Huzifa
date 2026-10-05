@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="34" viewBox="0 0 320 34" role="img" aria-labelledby="title">
+  <title id="title">Research · Build · Teach</title>
+  <style>
+    text { font: 18px ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace; fill: #2563eb; }
+    @media (prefers-color-scheme: dark) { text { fill: #79c0ff; } }
+  </style>
+  <text x="0" y="24" textLength="264" lengthAdjust="spacingAndGlyphs">Research · Build · Teach</text>
+</svg>
